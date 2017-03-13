@@ -6,3 +6,5 @@ Prerequisites:
 1) SPM12
 
 2) Connectome Workbench
+
+The current version has beeb tested in Linux and Mac
