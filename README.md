@@ -8,3 +8,13 @@ Prerequisites:
 2) Connectome Workbench
 
 The current version has been tested in Linux and Mac
+
+
+Usage:
+
+clone ...
+
+% run in Matlab
+addpath  Path/matworkbench
+opennii
+
