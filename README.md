@@ -7,4 +7,4 @@ Prerequisites:
 
 2) Connectome Workbench
 
-The current version has beeb tested in Linux and Mac
+The current version has been tested in Linux and Mac
