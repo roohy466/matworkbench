@@ -12,6 +12,9 @@ The current version has been tested in Linux and Mac
 if you are using Mac specially you have to run Matlab via terminal t access the wb_view.
 The path to wb_view and Matlab also must be defined in the profile file. 
 
+because the Conte69_AverageT1w.nii is 25MB, please download it from follwoing link and put it in Conte69_32k_fs_LR  folder.
+https://www.dropbox.com/s/tvbeusi30lwqhw1/Conte69_AverageT1w.nii?dl=0
+
 Usage:
 
 clone ...
