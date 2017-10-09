@@ -9,6 +9,8 @@ Prerequisites:
 
 The current version has been tested in Linux and Mac
 
+if you are using Mac specially you have to run Matlab via terminal t access the wb_view.
+The path to wb_view and Matlab also must be defined in the profile file. 
 
 Usage:
 
